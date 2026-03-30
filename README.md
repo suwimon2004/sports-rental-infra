@@ -5,7 +5,6 @@
 ## รายละเอียดโปรเจกต์
 - **Provisioning:** สร้าง VM (Ubuntu 22.04), VNet, NSG (เปิด Port 80, 22)
 - **Deployment:** ติดตั้ง Apache, PHP, MySQL และดึง Code จาก GitHub มา Deploy อัตโนมัติ
-- **Fix Path:** มีการจัดการ Symbolic Link และ SQL Update เพื่อแก้ปัญหาการแสดงผลรูปภาพบน Linux
 
 ## ขั้นตอนการรัน (สำหรับอาจารย์)
 1. ติดตั้ง Azure CLI และสั่ง `az login`
